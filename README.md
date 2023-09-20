@@ -26,12 +26,10 @@ Increased revenue by identifying patterns and trends in hotel booking data, allo
 Enhanced the hotel booking process by identifying bottlenecks and implementing improvements based on data-driven insights.
 Improved project performance by leveraging Python's Pandas library for efficient data manipulation and analysis.
 
+![Screenshot](Dashboard.png)
+
 # Conclusion
 
 In conclusion, this project shows the successful utilization of Python's Pandas library and Power BI to analyze hotel booking data and extract actionable insights. 
 These efforts resulted in increased revenue, enhanced customer experience, and improved project performance
-
-![Screenshot](Dashboard.png)
-
-
 
