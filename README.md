@@ -1,6 +1,6 @@
 # Hotel-Booking-Analysis-Project
 
-# Hotel Booking Analysis with Python and Power BI
+# Project Overview
 This project focuses on the analysis of hotel booking data using Python's Pandas library for efficient data manipulation. 
 The goal is to optimize the hotel booking process and drive business growth by extracting actionable insights and implementing data-driven solutions. 
 The project demonstrates successful utilization of Python and Power BI to enhance revenue and improve project performance.
