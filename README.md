@@ -19,6 +19,8 @@ Utilized Python's Pandas library for efficient data manipulation and analysis.
 Constructed a Power BI dashboard to visualize key performance indicators (KPIs) related to hotel bookings.
 Extracted actionable insights from the data to optimize the hotel booking process and drive business growth.
 
+![Pandas](PNG_Files/Pandas.png)
+
 # Results and Impact
 
 Through this project, the following outcomes and impacts were achieved:
@@ -26,12 +28,14 @@ Increased revenue by identifying patterns and trends in hotel booking data, allo
 Enhanced the hotel booking process by identifying bottlenecks and implementing improvements based on data-driven insights.
 Improved project performance by leveraging Python's Pandas library for efficient data manipulation and analysis.
 
-![Screenshot](Dashboard.png)
+![Dashboard](PNG_Files/Dashboard.png)
 
 # Conclusion
-
 In conclusion, this project shows the successful utilization of Python's Pandas library and Power BI to analyze hotel booking data and extract actionable insights. 
 These efforts resulted in increased revenue, enhanced customer experience, and improved project performance
+
+![Pandas_Vis](PNG_Files/Pandas_Vis.png)
+
 # Challenges
 Challenges in the Hotel Booking Analysis Project involve handling large and complex datasets, ensuring data accuracy, designing an effective Power BI dashboard, and aligning data insights with actionable business strategies to enhance the hotel booking process and drive growth. Managing technical constraints and resource limitations is also a challenge in achieving project success.
 
